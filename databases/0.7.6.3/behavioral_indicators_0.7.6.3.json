@@ -1,0 +1,916 @@
+{
+    "response_to_name": {
+        "category": "expected_behavior",
+        "feature_index": 0,
+        "en": {
+            "feature_terms": [
+                "response to name",
+                "responds to name",
+                "respond to name",
+                "when called",
+                "responds when called",
+                "call their name",
+                "calling their name",
+                "looks at me",
+                "look at me",
+                "looks at me when called",
+                "look at me when called"
+            ],
+            "positive_terms": [
+                "responds",
+                "respond",
+                "respond to name",
+                "responds to me",
+                "responds when called",
+                "looks at me",
+                "look at me",
+                "looks at me when called",
+                "look at me when called",
+                "answers",
+                "reacts"
+            ],
+            "concern_terms": [
+                "ignores",
+                "ignore",
+                "avoids",
+                "rarely",
+                "seldom"
+            ],
+            "negation_terms": [
+                "does not",
+                "doesnt",
+                "never",
+                "not"
+            ]
+        },
+        "tl": {
+            "feature_terms": [
+                "tumutugon sa pangalan",
+                "sumasagot sa pangalan",
+                "kapag tinatawag",
+                "pag tinatawag",
+                "tumutugon sa tawag",
+                "tumutugon sa akin",
+                "tumingin kapag tinatawag",
+                "tumitingin kapag tinatawag"
+            ],
+            "positive_terms": [
+                "tumutugon",
+                "tumugon",
+                "tugon",
+                "tumingin",
+                "tumitingin",
+                "sumasagot",
+                "sumagot",
+                "nasagot",
+                "sagot",
+                "nakikilala",
+                "pinapansin"
+            ],
+            "concern_terms": [
+                "hindi tumutugon",
+                "di tumutugon",
+                "bihira",
+                "hindi pinapansin",
+                "ayaw"
+            ],
+            "negation_terms": [
+                "hindi",
+                "di",
+                "wala"
+            ]
+        }
+    },
+    "eye_contact": {
+        "category": "expected_behavior",
+        "feature_index": 1,
+        "en": {
+            "feature_terms": [
+                "eye contact",
+                "makes eye contact",
+                "looks at me",
+                "looks at people",
+                "looks at someone's face",
+                "looks toward my face"
+            ],
+            "positive_terms": [
+                "makes",
+                "maintains",
+                "looks",
+                "establishes",
+                "meets",
+                "contacts",
+                "looking"
+            ],
+            "concern_terms": [
+                "avoids eye contact",
+                "avoids",
+                "ignores",
+                "ignores eye contact",
+                "ignores contact",
+                "does not make eye contact",
+                "doesnt make eye contact",
+                "rarely looks",
+                "seldom looks",
+                "looks away"
+            ],
+            "negation_terms": [
+                "does not",
+                "doesnt",
+                "doesn't",
+                "never",
+                "not"
+            ]
+        },
+        "tl": {
+            "feature_terms": [
+                "eye contact",
+                "tumingin sa mata",
+                "tumingin sa mukha",
+                "nakikipagtinginan",
+                "tumingin kapag kausap",
+                "tumingin sa kausap"
+            ],
+            "positive_terms": [
+                "tumingin",
+                "nakatingin",
+                "nakikipagtinginan",
+                "humaharap"
+            ],
+            "concern_terms": [
+                "iniiwasan ang tingin",
+                "hindi tumitingin",
+                "bihirang tumingin",
+                "umiwas ng tingin"
+            ],
+            "negation_terms": [
+                "hindi",
+                "di",
+                "wala",
+                "hinding hindi"
+            ]
+        }
+    },
+    "joint_attention": {
+        "category": "expected_behavior",
+        "feature_index": 2,
+        "en": {
+            "feature_terms": [
+                "joint attention",
+                "follows my point",
+                "follows where i point",
+                "looks where i point",
+                "looks at what i show",
+                "shares attention",
+                "looks back and forth between me and an object"
+            ],
+            "positive_terms": [
+                "follows",
+                "looks",
+                "shares",
+                "points",
+                "shows",
+                "alternates gaze"
+            ],
+            "concern_terms": [
+                "does not follow my point",
+                "does not look where i point",
+                "rarely follows my point",
+                "ignores what i show"
+            ],
+            "negation_terms": [
+                "does not",
+                "doesnt",
+                "doesn't",
+                "never",
+                "not"
+            ]
+        },
+        "tl": {
+            "feature_terms": [
+                "joint attention",
+                "sumusunod sa turo ko",
+                "tinitingnan ang itinuturo ko",
+                "tumingin sa ipinapakita ko",
+                "ibinabahagi ang atensyon",
+                "tumingin sa akin at sa bagay"
+            ],
+            "positive_terms": [
+                "sumusunod",
+                "tumingin",
+                "ibinabahagi",
+                "itinuturo",
+                "ipinapakita"
+            ],
+            "concern_terms": [
+                "hindi sumusunod sa turo",
+                "hindi tumitingin sa itinuturo",
+                "hindi pinapansin ang ipinapakita",
+                "bihirang sumunod sa turo"
+            ],
+            "negation_terms": [
+                "hindi",
+                "di",
+                "wala",
+                "hindi kailanman"
+            ]
+        }
+    },
+    "gesture_use": {
+        "category": "expected_behavior",
+        "feature_index": 3,
+        "en": {
+            "feature_terms": [
+                "uses gestures",
+                "use gestures",
+                "points to things",
+                "waves goodbye",
+                "nods yes",
+                "shakes head no",
+                "gestures to communicate",
+                "uses hand gestures"
+            ],
+            "positive_terms": [
+                "uses",
+                "points",
+                "waves",
+                "nods",
+                "gestures",
+                "shows with hands"
+            ],
+            "concern_terms": [
+                "does not point",
+                "does not use gestures",
+                "rarely gestures",
+                "does not wave",
+                "does not nod"
+            ],
+            "negation_terms": [
+                "does not",
+                "doesnt",
+                "doesn't",
+                "never",
+                "not"
+            ]
+        },
+        "tl": {
+            "feature_terms": [
+                "gumagamit ng kilos",
+                "gumagamit ng senyas",
+                "itinuturo ang bagay",
+                "kumakaway ng paalam",
+                "tumango ng oo",
+                "umiling ng hindi",
+                "kilos ng kamay para makipag-usap"
+            ],
+            "positive_terms": [
+                "gumagamit",
+                "itinuturo",
+                "kumakaway",
+                "tumango",
+                "umiling",
+                "sumesenyas"
+            ],
+            "concern_terms": [
+                "hindi nagtuturo",
+                "hindi gumagamit ng senyas",
+                "bihirang kumilos",
+                "hindi kumakaway",
+                "hindi tumatango"
+            ],
+            "negation_terms": [
+                "hindi",
+                "di",
+                "wala",
+                "hinding hindi"
+            ]
+        }
+    },
+    "social_interaction": {
+        "category": "expected_behavior",
+        "feature_index": 4,
+        "en": {
+            "feature_terms": [
+                "social interaction",
+                "interacts with people",
+                "plays with other children",
+                "approaches other children",
+                "responds to people",
+                "joins other children",
+                "engages with others"
+            ],
+            "positive_terms": [
+                "interacts",
+                "plays",
+                "approaches",
+                "responds",
+                "joins",
+                "engages",
+                "initiates"
+            ],
+            "concern_terms": [
+                "avoids people",
+                "does not interact",
+                "does not join other children",
+                "rarely interacts",
+                "prefers to be alone"
+            ],
+            "negation_terms": [
+                "does not",
+                "doesnt",
+                "doesn't",
+                "never",
+                "not"
+            ]
+        },
+        "tl": {
+            "feature_terms": [
+                "nakikisalamuha sa tao",
+                "nakikipaglaro sa ibang bata",
+                "lumalapit sa ibang bata",
+                "tumutugon sa tao",
+                "sumasali sa ibang bata",
+                "nakikihalubilo"
+            ],
+            "positive_terms": [
+                "nakikisalamuha",
+                "nakikipaglaro",
+                "lumalapit",
+                "tumutugon",
+                "sumasali",
+                "nakikihalubilo"
+            ],
+            "concern_terms": [
+                "iniiwasan ang tao",
+                "hindi nakikisalamuha",
+                "hindi sumasali sa ibang bata",
+                "bihirang makihalubilo",
+                "mas gustong mag-isa"
+            ],
+            "negation_terms": [
+                "hindi",
+                "di",
+                "wala",
+                "hindi kailanman"
+            ]
+        }
+    },
+    "sharing_interest": {
+        "category": "expected_behavior",
+        "feature_index": 5,
+        "en": {
+            "feature_terms": [
+                "shares interest",
+                "shows me things",
+                "shows me objects",
+                "points to show me",
+                "brings things to show me",
+                "shares excitement",
+                "shares enjoyment"
+            ],
+            "positive_terms": [
+                "shows",
+                "shares",
+                "brings",
+                "points",
+                "brings over"
+            ],
+            "concern_terms": [
+                "does not show me",
+                "does not share interest",
+                "rarely shows things",
+                "does not point to show",
+                "keeps things to themselves"
+            ],
+            "negation_terms": [
+                "does not",
+                "doesnt",
+                "doesn't",
+                "never",
+                "not"
+            ]
+        },
+        "tl": {
+            "feature_terms": [
+                "ibinabahagi ang interes",
+                "ipinapakita sa akin",
+                "ipinapakita ang bagay",
+                "itinuturo para ipakita",
+                "dinadala para ipakita",
+                "ibinabahagi ang tuwa"
+            ],
+            "positive_terms": [
+                "ipinapakita",
+                "ibinabahagi",
+                "itinuturo",
+                "dinadala"
+            ],
+            "concern_terms": [
+                "hindi ipinapakita sa akin",
+                "hindi nagbabahagi ng interes",
+                "bihirang magpakita",
+                "hindi nagtuturo para ipakita"
+            ],
+            "negation_terms": [
+                "hindi",
+                "di",
+                "wala",
+                "hinding hindi"
+            ]
+        }
+    },
+    "play_behavior": {
+        "category": "expected_behavior",
+        "feature_index": 6,
+        "en": {
+            "feature_terms": [
+                "pretend play",
+                "imaginative play",
+                "plays pretend",
+                "plays with toys",
+                "uses toys for pretend play",
+                "plays make believe",
+                "plays appropriately with toys"
+            ],
+            "positive_terms": [
+                "pretends",
+                "imagines",
+                "plays",
+                "uses toys",
+                "acts out"
+            ],
+            "concern_terms": [
+                "does not pretend",
+                "does not play with toys",
+                "repetitively lines up toys",
+                "only spins toy wheels",
+                "rarely engages in pretend play"
+            ],
+            "negation_terms": [
+                "does not",
+                "doesnt",
+                "doesn't",
+                "never",
+                "not"
+            ]
+        },
+        "tl": {
+            "feature_terms": [
+                "kunwaring laro",
+                "malikhaing paglalaro",
+                "nagpapanggap na naglalaro",
+                "nakikipaglaro sa laruan",
+                "ginagamit ang laruan sa kunwaring laro",
+                "larong kunwari"
+            ],
+            "positive_terms": [
+                "nagpapanggap",
+                "naglalaro",
+                "gumagamit ng laruan",
+                "ginagaya",
+                "umaakto"
+            ],
+            "concern_terms": [
+                "hindi nagpapanggap sa laro",
+                "hindi naglalaro ng laruan",
+                "paulit ulit na inaayos ang laruan",
+                "paulit ulit na iniikot ang gulong ng laruan",
+                "bihirang magkunwaring laro"
+            ],
+            "negation_terms": [
+                "hindi",
+                "di",
+                "wala",
+                "hindi kailanman"
+            ]
+        }
+    },
+    "language_communication": {
+        "category": "expected_behavior",
+        "feature_index": 7,
+        "en": {
+            "feature_terms": [
+                "language communication",
+                "uses words to communicate",
+                "communicates verbally",
+                "says words",
+                "uses phrases",
+                "asks for things",
+                "communicates needs",
+                "uses gestures or words to communicate"
+            ],
+            "positive_terms": [
+                "says",
+                "speaks",
+                "communicates",
+                "asks",
+                "requests",
+                "uses words",
+                "expresses"
+            ],
+            "concern_terms": [
+                "does not speak",
+                "does not use words",
+                "rarely communicates",
+                "cannot express needs",
+                "has lost words"
+            ],
+            "negation_terms": [
+                "does not",
+                "doesnt",
+                "doesn't",
+                "never",
+                "not"
+            ]
+        },
+        "tl": {
+            "feature_terms": [
+                "komunikasyon sa wika",
+                "gumagamit ng salita para makipag-usap",
+                "nakikipag-usap gamit ang salita",
+                "nagsasabi ng mga salita",
+                "gumagamit ng parirala",
+                "humihingi ng bagay",
+                "ipinapahayag ang pangangailangan"
+            ],
+            "positive_terms": [
+                "nagsasabi",
+                "nagsasalita",
+                "nakikipag-usap",
+                "humihingi",
+                "gumagamit ng salita",
+                "ipinapahayag"
+            ],
+            "concern_terms": [
+                "hindi nagsasalita",
+                "hindi gumagamit ng salita",
+                "bihirang makipag-usap",
+                "hindi maipahayag ang pangangailangan",
+                "nawalan ng mga salitang ginagamit"
+            ],
+            "negation_terms": [
+                "hindi",
+                "di",
+                "wala",
+                "hinding hindi"
+            ]
+        }
+    },
+    "following_instructions": {
+        "category": "expected_behavior",
+        "feature_index": 8,
+        "en": {
+            "feature_terms": [
+                "follows instructions",
+                "follows directions",
+                "understands simple instructions",
+                "does what i ask",
+                "follows simple requests",
+                "responds to instructions"
+            ],
+            "positive_terms": [
+                "follows",
+                "understands",
+                "does",
+                "responds",
+                "completes"
+            ],
+            "concern_terms": [
+                "does not follow instructions",
+                "does not understand simple instructions",
+                "rarely follows directions",
+                "ignores instructions"
+            ],
+            "negation_terms": [
+                "does not",
+                "doesnt",
+                "doesn't",
+                "never",
+                "not"
+            ]
+        },
+        "tl": {
+            "feature_terms": [
+                "sumusunod sa panuto",
+                "sumusunod sa utos",
+                "nakakaintindi ng simpleng panuto",
+                "ginagawa ang hinihiling ko",
+                "tumutugon sa panuto"
+            ],
+            "positive_terms": [
+                "sumusunod",
+                "nakakaintindi",
+                "ginagawa",
+                "tumutugon",
+                "natatapos"
+            ],
+            "concern_terms": [
+                "hindi sumusunod sa panuto",
+                "hindi nakakaintindi ng simpleng panuto",
+                "bihirang sumunod sa utos",
+                "hindi pinapansin ang panuto"
+            ],
+            "negation_terms": [
+                "hindi",
+                "di",
+                "wala",
+                "hindi kailanman"
+            ]
+        }
+    },
+    "repetitive_behaviors_routines": {
+        "category": "concerning_behavior",
+        "feature_index": 9,
+        "en": {
+            "feature_terms": [
+                "repetitive behavior",
+                "repetitive behaviors",
+                "repetitive movements",
+                "repetitive actions",
+                "repetitive routines",
+                "repeats actions",
+                "repeats movements",
+                "repeats the same thing",
+                "does the same thing repeatedly",
+                "repeated movements",
+                "repeated actions",
+                "repetitive patterns"
+            ],
+            "positive_terms": [
+                "repeats",
+                "repeats actions",
+                "repeats movements",
+                "does it repeatedly",
+                "does the same thing",
+                "repeats the same thing"
+            ],
+            "concern_terms": [
+                "repetitive",
+                "repeatedly",
+                "over and over",
+                "again and again",
+                "same thing over and over",
+                "same thing repeatedly",
+                "repetitive behavior",
+                "repetitive movements",
+                "repetitive actions"
+            ],
+            "negation_terms": [
+                "does not",
+                "doesnt",
+                "never",
+                "not"
+            ]
+        },
+        "tl": {
+            "feature_terms": [
+                "paulit ulit na kilos",
+                "paulit ulit na galaw",
+                "paulit ulit na ginagawa",
+                "paulit ulit na gawain",
+                "paulit ulit na kilos kilos",
+                "inuulit ang kilos",
+                "inuulit ang ginagawa",
+                "parehong ginagawa",
+                "laging inuulit",
+                "paulit ulit"
+            ],
+            "positive_terms": [
+                "umuulit",
+                "inuulit",
+                "paulit ulit",
+                "ginagawa ulit",
+                "parehong ginagawa",
+                "inuulit ang kilos"
+            ],
+            "concern_terms": [
+                "paulit ulit",
+                "paulit-ulit",
+                "inuulit ulit",
+                "paulit ulit na galaw",
+                "paulit ulit na kilos",
+                "parehong bagay nang paulit ulit",
+                "paulit ulit na ginagawa"
+            ],
+            "negation_terms": [
+                "hindi",
+                "di",
+                "wala",
+                "hindi kailanman"
+            ]
+        }
+    },
+    "sensory_responses": {
+        "category": "concerning_behavior",
+        "feature_index": 10,
+        "en": {
+            "feature_terms": [
+                "sensory sensitivity",
+                "sensitive to sounds",
+                "sensitive to lights",
+                "sensitive to textures",
+                "covers ears",
+                "reacts strongly to sounds",
+                "seeks sensory input",
+                "avoids certain textures",
+                "unusual response to sensory input"
+            ],
+            "positive_terms": [
+                "covers ears",
+                "avoids",
+                "seeks",
+                "reacts",
+                "is sensitive",
+                "dislikes",
+                "prefers"
+            ],
+            "concern_terms": [
+                "very sensitive",
+                "overreacts to sounds",
+                "distressed by noises",
+                "avoids textures",
+                "seeks sensory input",
+                "strong reaction to lights"
+            ],
+            "negation_terms": [
+                "does not",
+                "doesnt",
+                "doesn't",
+                "never",
+                "not"
+            ]
+        },
+        "tl": {
+            "feature_terms": [
+                "sensitibo sa pandama",
+                "sensitibo sa tunog",
+                "sensitibo sa ilaw",
+                "sensitibo sa tekstura",
+                "tinatakpan ang tainga",
+                "malakas ang reaksyon sa tunog",
+                "naghahanap ng pandamang sensasyon",
+                "iniiwasan ang ilang tekstura"
+            ],
+            "positive_terms": [
+                "tinatakpan",
+                "iniiwasan",
+                "naghahanap",
+                "tumutugon",
+                "sensitibo",
+                "ayaw"
+            ],
+            "concern_terms": [
+                "sobrang sensitibo",
+                "matinding reaksyon sa tunog",
+                "nababalisa sa ingay",
+                "iniiwasan ang tekstura",
+                "naghahanap ng pandamang sensasyon"
+            ],
+            "negation_terms": [
+                "hindi",
+                "di",
+                "wala",
+                "hindi kailanman"
+            ]
+        }
+    },
+    "emotional_response_to_change": {
+        "category": "concerning_behavior",
+        "feature_index": 11,
+        "en": {
+            "feature_terms": [
+                "response to change",
+                "upset by changes",
+                "difficulty with changes",
+                "distressed by routine changes",
+                "has difficulty with transitions",
+                "upset when plans change",
+                "needs routines to stay the same"
+            ],
+            "positive_terms": [
+                "upset",
+                "struggles",
+                "has difficulty",
+                "becomes distressed",
+                "needs routines",
+                "resists"
+            ],
+            "concern_terms": [
+                "upset by changes",
+                "difficulty with changes",
+                "distressed by routine changes",
+                "difficulty with transitions",
+                "resists changes",
+                "needs routines to stay the same"
+            ],
+            "negation_terms": [
+                "does not",
+                "doesnt",
+                "doesn't",
+                "never",
+                "not"
+            ]
+        },
+        "tl": {
+            "feature_terms": [
+                "reaksyon sa pagbabago",
+                "naiinis sa pagbabago",
+                "nahihirapan sa pagbabago",
+                "nababalisa kapag nagbabago ang gawain",
+                "nahihirapan sa paglipat ng gawain",
+                "naiinis kapag nagbabago ang plano",
+                "kailangang pareho ang rutina"
+            ],
+            "positive_terms": [
+                "naiinis",
+                "nahihirapan",
+                "nababalisa",
+                "lumalaban",
+                "kailangan ng rutina"
+            ],
+            "concern_terms": [
+                "naiinis sa pagbabago",
+                "nahihirapan sa pagbabago",
+                "nababalisa sa pagbabago ng rutina",
+                "nahihirapan sa paglipat ng gawain",
+                "tumututol sa pagbabago",
+                "kailangang pareho ang rutina"
+            ],
+            "negation_terms": [
+                "hindi",
+                "di",
+                "wala",
+                "hindi kailanman"
+            ]
+        }
+    },
+    "fixated_restricted_interest": {
+        "category": "concerning_behavior",
+        "feature_index": 12,
+        "en": {
+            "feature_terms": [
+                "restricted interest",
+                "intense interest",
+                "fixated on one topic",
+                "very focused on one subject",
+                "talks about one topic repeatedly",
+                "unusually strong interest",
+                "difficulty shifting interests"
+            ],
+            "positive_terms": [
+                "focuses",
+                "talks",
+                "prefers",
+                "insists",
+                "concentrates",
+                "fixates"
+            ],
+            "concern_terms": [
+                "restricted interest",
+                "intense interest",
+                "fixated",
+                "obsessed with one topic",
+                "talks about one topic repeatedly",
+                "difficulty shifting interests"
+            ],
+            "negation_terms": [
+                "does not",
+                "doesnt",
+                "doesn't",
+                "never",
+                "not"
+            ]
+        },
+        "tl": {
+            "feature_terms": [
+                "limitadong interes",
+                "matinding interes",
+                "nakatuon sa iisang paksa",
+                "paulit ulit na pinag uusapan ang isang paksa",
+                "sobrang tutok sa isang bagay",
+                "nahihirapang lumipat ng interes"
+            ],
+            "positive_terms": [
+                "nakatuon",
+                "pinag uusapan",
+                "mas gusto",
+                "iginigiit",
+                "nakapokus"
+            ],
+            "concern_terms": [
+                "limitadong interes",
+                "matinding interes",
+                "nakapokus lamang sa isang paksa",
+                "nahuhumaling sa isang paksa",
+                "paulit ulit na pinag uusapan ang isang paksa",
+                "nahihirapang lumipat ng interes"
+            ],
+            "negation_terms": [
+                "hindi",
+                "di",
+                "wala",
+                "hindi kailanman"
+            ]
+        }
+    }
+}

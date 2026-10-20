@@ -1,0 +1,40 @@
+{
+  "topics": {
+    "autism_definition": {
+      "keywords": {
+        "en": [
+          "what is autism",
+          "what is asd",
+          "autism spectrum disorder"
+        ],
+        "tl": [
+          "ano ang autism",
+          "ano po ang autism",
+          "autism spectrum disorder"
+        ]
+      },
+      "responses": {
+        "en": "Autism spectrum disorder (ASD) is a neurological and developmental condition that begins in the developmental period and affects how a person communicates, interacts, learns, and behaves. ",
+        "tl": "Ang Autism Spectrum Disorder (ASD) ay isang neurodevelopmental condition na maaaring makaapekto sa komunikasyon, pakikisalamuha, at pag-uugali."
+      },
+      "sources": [
+        "https://www.who.int/news-room/fact-sheets/detail/autism-spectrum-disorders",
+        "https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder",
+        "https://www.cdc.gov/autism/hcp/diagnosis/index.html"
+      ]
+    },
+    "autism_screening_vs_diagnosis": {
+      "keywords": [
+        "is this a diagnosis",
+        "does this mean my child has autism",
+        "can screening diagnose autism",
+        "is this diagnosis"
+      ],
+      "responses": {
+        "en": "A screening result does not diagnose ASD. A qualified healthcare professional can conduct a comprehensive evaluation.",
+        "tl": "Hindi diagnosis ang resulta ng screening. Maaaring magsagawa ng masusing pagsusuri ang isang kwalipikadong healthcare professional."
+      },
+      "source": "Add a verified clinical or public-health reference here."
+    }
+  }
+}
